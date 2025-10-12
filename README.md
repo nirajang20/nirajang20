@@ -84,4 +84,5 @@ My journey began at age 13 when I built my first website — since then, I’ve 
 
 ---
 
-<p align="center">© 2025 <strong>Nirajan Ghimire</strong> | Built with ❤️ and curiosity</p>
+<p align="center">© 2025 <strong><a href="https://www.nirajang.com.np/" target="_blank">Nirajan Ghimire</a></strong> | Built with ❤️ and curiosity</p>
+
