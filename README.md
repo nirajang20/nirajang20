@@ -52,6 +52,8 @@ My journey began at age 13 when I built my first website — since then, I’ve 
 | **[Glassmorphism To-Do App](#)** | Beautiful task manager with animated UI & persistent storage. |
 | **[Nepali Date Converter](#)** | BS–AD converter built with responsive 3D-style UI for Nepali calendar. |
 | **[Single-Source Shortest Path Laboratory](#)** | Interactive playground for comparing three shortest-path algorithms side-by-side. |
+| **[HumeSQL](#)** | Converts complex SQL and database queries into clear, human-readable language. Stop deciphering code; start understanding intent. |
+
 
 ---
 
