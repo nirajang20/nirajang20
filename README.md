@@ -73,11 +73,26 @@ My journey began at age 13 when I built my first website — since then, I’ve 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:hello@nirajang.com.np"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.nirajang.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nirajang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nirajang20" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:hello@nirajang.com.np">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.nirajang.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nirajang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nirajang20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://pypi.org/user/nirajang/" target="_blank">
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+  </a>
+  <a href="https://marketplace.visualstudio.com/publishers/NirajanG" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
