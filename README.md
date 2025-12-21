@@ -72,6 +72,7 @@ A curious builder who started coding at 13 and never stopped. I focus on bringin
 | **[Nepali Date Converter](#)** | BS–AD converter with responsive 3D-style UI tailored for Nepali calendar quirks. |
 | **[Shortest Path Laboratory](#)** | Interactive lab to compare three shortest-path algorithms side by side with live visual graphs. |
 | **[HumeSQL](#)** | Translates complex SQL/database queries into human-readable language so teams ship faster. |
+| **[AskCSV](#)** | A Python package that launches a local web app where you can chat with your CSV file using natural language. |
 
 ---
 
