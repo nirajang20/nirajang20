@@ -1,93 +1,157 @@
-<!-- Header -->
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">
+  Hi, I'm <a href="https://www.nirajang.com.np" target="_blank">Nirajan Ghimire</a> 👋
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=70C9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nirajan+Ghimire+👋;Architecting+the+Internet+of+Things;Full-Stack+Systems+Developer;Data+Storyteller+%26+Innovator" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=70C9FF&center=true&vCenter=true&width=680&lines=Full-Stack+Systems+Engineer;IoT+%26+Edge+Computing+Developer;Data+Engineering+%26+AI+Research;Turning+real-world+signals+into+software"
+    alt="Typewriter introduction"
+  />
 </p>
 
 <p align="center">
-  <a href="https://www.nirajang.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-nirajang.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nirajang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-nirajang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hello@nirajang.com.np"><img src="https://img.shields.io/badge/Email-hello@nirajang.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.nirajang.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nirajang.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nirajang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nirajang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hello@nirajang.com.np">
+    <img src="https://img.shields.io/badge/Email-hello@nirajang.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
+<!-- ================= END HEADER ================= -->
 
-## 📖 The Journey So Far
 
-I am a **Software Engineer and IoT Enthusiast** based in South Dakota, currently pursuing a B.S. in Computer Science at **South Dakota State University**. My fascination with technology began at age 13, evolving from simple scripts to building complex systems that bridge the gap between physical hardware and digital interfaces.
+## 👨‍💻 Engineering Profile
 
-My core philosophy centers on **"Tactile Software"**—creating digital experiences that feel as responsive and real as physical objects. Whether it's a 3D data visualization in Three.js or a real-time telemetry dashboard for an IoT sensor array, I focus on performance, scalability, and human-centric design.
+I am a **Full-Stack Systems Engineer and IoT Developer** based in South Dakota, currently pursuing a **B.S. in Computer Science** at **South Dakota State University**.
 
----
+I design and build **end-to-end systems** that span:
+- physical hardware and embedded devices,
+- real-time data pipelines,
+- scalable backend services,
+- and interactive, high-performance web interfaces.
 
-## 🛠️ Specialized Expertise
+My work sits at the intersection of **software engineering, edge computing, and data intelligence**, with a strong emphasis on correctness, performance, and system observability.
 
-### 🌐 Full-Stack Architecture
-I build robust backends using **Laravel (PHP)** and **FastAPI (Python)**, focusing on Domain-Driven Design and secure API architectures. On the frontend, I leverage **JavaScript** and **Tailwind CSS** to build sleek, glassmorphic interfaces, occasionally pushing the boundaries with **Three.js** for 3D web environments.
-
-### 📡 Internet of Things (IoT) & Edge Computing
-I specialize in transforming raw environmental signals into actionable insights. My experience includes:
-- **Telemetry Pipelines:** Using MQTT and WebSockets for sub-second data transmission.
-- **Hardware Integration:** Interfacing Raspberry Pi and ESP32 with various sensor arrays.
-- **Edge Processing:** Implementing local data validation before pushing to cloud databases like Supabase or MySQL.
-
-### 📊 Data Science & AI Research
-My research work involves analyzing **NHANES nutrition data** using Python to evaluate the accuracy of AI-generated health insights. I am passionate about making data "alive" through interactive dashboards that simplify complex datasets for everyday users.
+> **Core Engineering Principle:**  
+> *Software should feel as deterministic and responsive as hardware.*
 
 ---
 
-## 🧠 My Tech Stack
+## 🧠 Areas of Focus
+
+### 🌐 Full-Stack Systems Engineering
+I build backend-heavy applications with clean architecture and strict separation of concerns.
+
+**Backend**
+- Laravel (PHP) with MVC & Domain-Driven Design patterns  
+- FastAPI (Python) for high-performance async APIs  
+- Secure REST APIs, authentication, and role-based access control  
+- Relational data modeling using MySQL & PostgreSQL (Supabase)
+
+**Frontend**
+- JavaScript (ES6+), Tailwind CSS, Vite
+- Glassmorphism UI patterns with performance awareness
+- 3D & data-driven UI using Three.js when visualization adds value
+
+---
+
+### 📡 IoT, Edge Computing & Real-Time Systems
+I specialize in moving data from the physical world into reliable digital systems.
+
+- **Embedded Hardware:** ESP32, Raspberry Pi, Arduino
+- **Sensors:** Environmental, telemetry, and analog/digital signal inputs
+- **Protocols:** MQTT, WebSockets, HTTP
+- **Edge Logic:**  
+  - Local validation & filtering  
+  - Fault tolerance before cloud ingestion  
+- **Data Flow:**  
+  `Sensor → Edge Device → Message Broker → API → Database → Visualization`
+
+---
+
+### 📊 Data Engineering & AI Research
+My academic and research work focuses on **data accuracy, validation, and interpretability**.
+
+- NHANES nutrition datasets (CDC)
+- HEI (Healthy Eating Index) computation pipelines
+- Evaluating LLM output accuracy against ground-truth datasets
+- Data analysis using Pandas, NumPy, and async Python
+- Interactive dashboards to communicate complex findings clearly
+
+---
+
+## 🛠️ Technology Stack
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 Core Technologies</h4>
-      <img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi,js,nodejs,mysql,supabase" /><br/>
-      <i>Focusing on scalable backend logic and real-time database management.</i>
+      <h4>🚀 Backend & Data</h4>
+      <img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi,nodejs,mysql,postgres,supabase,redis" /><br/>
+      <i>Scalable APIs, data modeling, and async processing.</i>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 Creative & Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=threejs,react,flutter,tailwind,figma,vite,html,css" /><br/>
-      <i>Crafting immersive, high-performance user interfaces.</i>
+      <h4>🎨 Frontend & Visualization</h4>
+      <img src="https://skillicons.dev/icons?i=js,threejs,react,tailwind,html,css,vite,figma" /><br/>
+      <i>High-performance UI and 3D data visualization.</i>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📟 IoT & Hardware</h4>
-      <img src="https://skillicons.dev/icons?i=raspberrypi,linux,arduino,cpp,docker" /><br/>
-      <i>Interfacing the physical world with cloud infrastructure.</i>
+      <h4>📟 IoT & Systems</h4>
+      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,cpp,docker" /><br/>
+      <i>Embedded systems, containers, and Linux-based workflows.</i>
     </td>
     <td width="50%" valign="top">
-      <h4>🔧 DevOps & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,redis,replit" /><br/>
-      <i>Automating workflows and ensuring high availability.</i>
+      <h4>🔧 DevOps & Tooling</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,replit" /><br/>
+      <i>CI/CD, version control, and API testing.</i>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Selected Projects
 
-### 📈 [PaperTrade Inc.](https://github.com/nirajang20)
-**Role:** Lead Developer | **Tech:** Laravel, MySQL, Bootstrap
-- Built a comprehensive stock market simulator that allows users to learn trading without financial risk.
-- Implemented real-time portfolio tracking and a multi-tenant authentication system.
-- Designed a custom analytics engine to visualize user performance over time.
+### 📈 PaperTrade Inc.
+**Role:** Lead Developer  
+**Stack:** Laravel, MySQL, Bootstrap
 
-### 🥗 [HEI Calculator & AI Validator](https://github.com/nirajang20)
-**Role:** Researcher/Developer | **Tech:** Python, FastAPI, Pandas
-- Developed a tool to calculate the Healthy Eating Index (HEI) from complex NHANES datasets.
-- Created a validation pipeline to test Large Language Models' (LLMs) accuracy in nutritional assessment.
-- Optimized data processing speed by 40% using asynchronous Python tasks.
-
-### 🌍 [3D Earth & IoT Visualizer](https://github.com/nirajang20)
-**Role:** Creator | **Tech:** Three.js, GSAP, OpenWeather API
-- A stunning 3D visualization where a digital Earth reacts to real-time weather and battery signals.
-- Uses **GSAP** for fluid animations and **Three.js** for hardware-accelerated rendering in the browser.
+- Designed a full-featured stock trading simulator for educational use
+- Implemented multi-tenant authentication and portfolio tracking
+- Built custom analytics to visualize user trading performance
+- Focused on data integrity and transactional consistency
 
 ---
 
-## 📈 Engineering Stats
+### 🥗 HEI Calculator & AI Validation Framework
+**Role:** Researcher & Developer  
+**Stack:** Python, FastAPI, Pandas
+
+- Automated Healthy Eating Index calculations from NHANES data
+- Built evaluation pipelines to benchmark LLM nutrition outputs
+- Reduced processing time by ~40% using async workflows
+- Research presented in an academic setting
+
+---
+
+### 🌍 3D Earth & IoT Visualization Platform
+**Role:** Creator  
+**Stack:** Three.js, GSAP, OpenWeather API
+
+- Real-time 3D Earth visualization driven by live data
+- Weather and battery telemetry rendered using GPU acceleration
+- Focused on smooth animations and performance optimization
+
+---
+
+## 📈 GitHub Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirajang20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -95,34 +159,47 @@ My research work involves analyzing **NHANES nutrition data** using Python to ev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajang20&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajang20&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Timeline
 <p align="center">
-  <img src="https://github.com/nirajang20/nirajang20/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github.com/nirajang20/nirajang20/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
 
-## 🎯 What I'm Looking For
-- **Collaborations:** I’m always open to working on Open Source IoT projects or Three.js experiments.
-- **Opportunities:** Currently seeking roles where I can apply my full-stack skills and hardware knowledge to solve real-world problems.
-- **Knowledge Sharing:** If you want to talk about AI accuracy, the future of the BS–AD Nepali calendar conversion, or VS Code extension development—reach out!
+## 🎯 Current Interests
+
+- Open-source IoT & edge computing projects
+- Backend-heavy full-stack engineering roles
+- Data validation, AI reliability, and explainability
+- Developer tooling & VS Code extensions
+- Large-scale calendar systems (BS ↔ AD conversion)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact & Profiles
 
 <p align="center">
-  <a href="https://github.com/nirajang20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nirajang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://pypi.org/user/nirajang/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></a>
-  <a href="https://marketplace.visualstudio.com/publishers/NirajanG"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://github.com/nirajang20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nirajang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://pypi.org/user/nirajang/">
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi"/>
+  </a>
+  <a href="https://marketplace.visualstudio.com/publishers/NirajanG">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nirajang20.nirajang20&left_color=gray&right_color=blue" alt="visitor badge"/>  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nirajang20.nirajang20&left_color=gray&right_color=blue" />
 </p>
 
-<p align="center">© 2025 <strong>Nirajan Ghimire</strong> | Built with ❤️ and curiosity</p>
+<p align="center">
+  © 2025 <strong>Nirajan Ghimire</strong> · Built with precision and curiosity
+</p>
