@@ -162,11 +162,6 @@ My academic and research work focuses on **data accuracy, validation, and interp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajang20&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-### 🐍 Contribution Timeline
-<p align="center">
-  <img src="https://github.com/nirajang20/nirajang20/blob/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
 ---
 
 ## 🎯 Current Interests
